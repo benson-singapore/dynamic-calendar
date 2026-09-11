@@ -1,0 +1,13 @@
+[     185ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=36e1c188:15804
+[     414ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5173/favicon.ico:0
+[  226262ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5173/src/App.tsx?t=1789109748199:0
+[  226267ms] [ERROR] [vite] Failed to reload /src/App.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:962
+[  236290ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5173/src/App.tsx?t=1789109758150:0
+[  236290ms] [ERROR] [vite] Failed to reload /src/App.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5173/@vite/client:962
+[  652005ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:5173/@vite/client:1030
+[  655422ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=36e1c188:15804
+[  780738ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:5173/@vite/client:1030
+[  785547ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=36e1c188:15804
+[  823640ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:5173/@vite/client:1030
+[  828000ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/react-dom_client.js?v=36e1c188:15804
+[  856178ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:5173/@vite/client:1030

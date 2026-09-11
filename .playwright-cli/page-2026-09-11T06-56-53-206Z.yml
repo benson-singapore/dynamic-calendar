@@ -1,0 +1,70 @@
+- main [ref=e3]:
+  - generic [ref=e4]:
+    - link "动态日历" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: DC
+    - link "源码 ↗" [ref=e8] [cursor=pointer]:
+      - /url: https://github.com/edent/Dynamic-SVG-Calendar-Icon
+  - region "动态日历" [ref=e9]:
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: SVG 日期引擎
+      - heading [level=1] [ref=e12]:
+        - text: 任意日期的
+        - emphasis [ref=e13]: 日历图标。
+      - paragraph [ref=e14]: 选择一个日期，生成可长期使用的图片链接，可用于 Notion、个人资料、文档以及任何支持图片的地方。
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]: 实时预览
+        - generic [ref=e20]: 珊瑚
+      - img "2026年9月11日 星期五" [ref=e21]:
+        - img "2026年9月11日 星期五 显示2026年9月11日 星期五的日历图标。" [ref=e22]:
+          - generic [ref=e33]: 9月
+          - generic [ref=e34]: "11"
+          - generic [ref=e35]: 星期五
+      - generic [ref=e36]:
+        - strong [ref=e37]: "11"
+        - generic [ref=e38]: 9月 2026
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - generic [ref=e42]: "01"
+          - generic [ref=e43]: 选择日期
+        - generic [ref=e44]:
+          - button "前一天" [ref=e45] [cursor=pointer]: ←
+          - textbox "选择日期" [ref=e46]: 2026-09-11
+          - button "后一天" [ref=e47] [cursor=pointer]: →
+        - button "回到今天 ↗" [ref=e48] [cursor=pointer]:
+          - text: 回到今天
+          - generic [ref=e49]: ↗
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - generic [ref=e52]: "02"
+          - generic [ref=e53]: 选择配色
+        - radiogroup "选择配色" [ref=e54]:
+          - radio "珊瑚 ✓" [checked] [ref=e55] [cursor=pointer]:
+            - generic [ref=e57]: 珊瑚
+            - generic [ref=e58]: ✓
+          - radio "墨色" [ref=e59] [cursor=pointer]
+          - radio "叶绿" [ref=e62] [cursor=pointer]
+          - radio "自定义" [ref=e65] [cursor=pointer]
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - generic [ref=e73]: "03"
+          - generic [ref=e74]: 日历语言
+        - radiogroup "日历语言" [ref=e75]:
+          - radio "English" [ref=e76] [cursor=pointer]
+          - radio "中文" [checked] [ref=e77] [cursor=pointer]
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e80]: "04"
+          - generic [ref=e81]: 图片 URL
+        - generic [ref=e82]:
+          - code [ref=e83]: http://localhost:5173/calendar/2026/09/11.svg?lang=zh
+          - button "复制" [ref=e84] [cursor=pointer]
+        - generic [ref=e85]:
+          - link "打开 SVG ↗" [ref=e86] [cursor=pointer]:
+            - /url: http://localhost:5173/calendar/2026/09/11.svg?lang=zh
+          - generic [ref=e87]: 以 image/svg+xml 提供
+  - generic [ref=e88]:
+    - generic [ref=e89]: 为网络上小而实用的角落而做。
+    - generic [ref=e90]: 年 / 月 / 日 · SVG

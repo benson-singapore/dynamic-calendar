@@ -1,0 +1,67 @@
+- main [ref=e3]:
+  - generic [ref=e4]:
+    - link "Dynamic Calendar home" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: DC
+      - generic [ref=e7]: Dynamic Calendar
+    - link "Source ↗" [ref=e8] [cursor=pointer]:
+      - /url: https://github.com/edent/Dynamic-SVG-Calendar-Icon
+  - region "Calendar generator" [ref=e9]:
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: SVG DATE ENGINE
+      - heading [level=1] [ref=e12]:
+        - text: A calendar icon
+        - emphasis [ref=e13]: for any day.
+      - paragraph [ref=e14]: Choose a date and get a durable image URL that works in Notion, profiles, documents, and anywhere an image can live.
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]: LIVE PREVIEW
+        - generic [ref=e20]: CORAL
+      - img "2026年9月11日 星期五" [ref=e21]
+      - generic [ref=e22]:
+        - strong [ref=e23]: "11"
+        - generic [ref=e24]: 9月 2026
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic [ref=e28]: "01"
+          - generic [ref=e29]: Select a date
+        - generic [ref=e30]:
+          - button "Previous day" [ref=e31] [cursor=pointer]: ←
+          - textbox "Select a date" [ref=e32]: 2026-09-11
+          - button "Next day" [ref=e33] [cursor=pointer]: →
+        - button "Jump to today ↗" [ref=e34] [cursor=pointer]:
+          - text: Jump to today
+          - generic [ref=e35]: ↗
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e38]: "02"
+          - generic [ref=e39]: Choose a colorway
+        - radiogroup "Colorway" [ref=e40]:
+          - radio "Coral ✓" [checked] [ref=e41] [cursor=pointer]:
+            - generic [ref=e43]: Coral
+            - generic [ref=e44]: ✓
+          - radio "Ink" [ref=e45] [cursor=pointer]
+          - radio "Leaf" [ref=e48] [cursor=pointer]
+          - radio "Custom" [ref=e51] [cursor=pointer]
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - generic [ref=e59]: "03"
+          - generic [ref=e60]: Calendar language
+        - radiogroup "Calendar language" [ref=e61]:
+          - radio "English" [ref=e62] [cursor=pointer]
+          - radio "中文" [checked] [ref=e63] [cursor=pointer]
+      - generic [ref=e64]:
+        - generic [ref=e65]:
+          - generic [ref=e66]: "04"
+          - generic [ref=e67]: Your image URL
+        - generic [ref=e68]:
+          - code [ref=e69]: http://localhost:5173/calendar/2026/09/11.svg?lang=zh
+          - button "Copy image URL" [ref=e70] [cursor=pointer]: Copy
+        - generic [ref=e71]:
+          - link "Open SVG ↗" [ref=e72] [cursor=pointer]:
+            - /url: http://localhost:5173/calendar/2026/09/11.svg?lang=zh
+          - generic [ref=e73]: served as image/svg+xml
+  - generic [ref=e74]:
+    - generic [ref=e75]: Built for small, useful corners of the web.
+    - generic [ref=e76]: YYYY / MM / DD · SVG

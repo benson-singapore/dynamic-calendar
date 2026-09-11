@@ -17,7 +17,7 @@ It is designed for small, useful places: a Notion page icon, a profile image, a 
 
 ![Dynamic Calendar workbench](docs/images/dynamic-calendar-workbench.png)
 
-![Generated calendar SVG](docs/images/calendar-svg-output.png)
+[![Generated calendar SVG](docs/images/calendar-svg-output.png)](https://dynamic-calendar.pages.dev/calendar.svg)
 
 ## Highlights
 

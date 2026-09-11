@@ -17,7 +17,7 @@ Dynamic Calendar 可以把任意日期生成干净、持久的日历图片。你
 
 ![Dynamic Calendar 工作台](docs/images/dynamic-calendar-workbench.png)
 
-![生成的日历 SVG](docs/images/calendar-svg-output.png)
+[![生成日历 SVG](docs/images/calendar-svg-output.png)](https://dynamic-calendar.pages.dev/calendar.svg)
 
 ## 功能特点
 

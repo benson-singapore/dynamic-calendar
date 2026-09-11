@@ -184,7 +184,7 @@ function App() {
           <span className="wordmark-mark">DC</span>
           <span>{copy.home}</span>
         </a>
-        <a className="source-link" href="https://github.com/edent/Dynamic-SVG-Calendar-Icon" target="_blank" rel="noreferrer">
+        <a className="source-link" href="https://github.com/benson-singapore/dynamic-calendar" target="_blank" rel="noreferrer">
           {copy.source}
         </a>
       </header>
